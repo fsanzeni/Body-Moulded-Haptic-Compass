@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name ABX00027)(type KiCad)(uri ${KIPRJMOD}/libraries/ABX00027/ABX00027.pretty)(options "")(descr ""))
+  (lib (name DW01A)(type KiCad)(uri ${KIPRJMOD}/libraries/DW01A/DW01A.pretty)(options "")(descr ""))
+  (lib (name FS8205A)(type KiCad)(uri ${KIPRJMOD}/libraries/FS8205A/FS8205A.pretty)(options "")(descr ""))
+  (lib (name TP4056)(type KiCad)(uri ${KIPRJMOD}/libraries/TP4056/TP4056.pretty)(options "")(descr ""))
+  (lib (name UJ2-MIBH2-4-SMT)(type KiCad)(uri ${KIPRJMOD}/libraries/UJ2-MIBH2-4-SMT/UJ2-MIBH2-4-SMT.pretty)(options "")(descr ""))
+  (lib (name nano33)(type KiCad)(uri ${KIPRJMOD}/libraries/nano33/nano33.pretty)(options "")(descr ""))
+)

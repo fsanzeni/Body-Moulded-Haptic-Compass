@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name ABX00027)(type Legacy)(uri ${KIPRJMOD}/libraries/ABX00027/ABX00027.lib)(options "")(descr ""))
+  (lib (name DW01A)(type Legacy)(uri ${KIPRJMOD}/libraries/DW01A/DW01A.lib)(options "")(descr ""))
+  (lib (name FS8205A)(type Legacy)(uri ${KIPRJMOD}/libraries/FS8205A/FS8205A.lib)(options "")(descr ""))
+  (lib (name TP4056)(type Legacy)(uri ${KIPRJMOD}/libraries/TP4056/TP4056.lib)(options "")(descr ""))
+  (lib (name UJ2-MIBH2-4-SMT)(type Legacy)(uri ${KIPRJMOD}/libraries/UJ2-MIBH2-4-SMT/UJ2-MIBH2-4-SMT.lib)(options "")(descr ""))
+  (lib (name nano33)(type Legacy)(uri ${KIPRJMOD}/libraries/nano33/nano33.lib)(options "")(descr ""))
+)
